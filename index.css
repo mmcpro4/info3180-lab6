@@ -1,0 +1,17 @@
+ #body_design{
+ 	background-color: #7FFF00;
+ 	background: url("images/bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+ h3{
+ 	font-family: Monotype Corsiva;
+ 	font-size: 50px;
+ 	color: 	#AFEEEE;
+ }
+ #add{
+ 	font-family: Monotype Corsiva;
+ 	font-size: 15px;
+ }
